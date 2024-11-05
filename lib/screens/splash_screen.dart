@@ -29,7 +29,7 @@ class _SplashScreenState extends State<SplashScreen> {
 
   @override
   void initState() {
-    //navigateToHome();
+    navigateToHome();
     // TODO: implement initState
     super.initState();
   }
